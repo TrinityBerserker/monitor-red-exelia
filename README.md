@@ -75,8 +75,8 @@ El archivo `config_dispositivos.json` se genera automáticamente y almacena:
 
 **Gustavo Bermúdez Sotel**  
 IT Systems & Security Analyst  
-EXELIA Logística Integral (Corporativo Larrabezua)  
-📧 gbermudez@exelia.com.mx
+CUALQUIER CORPORATIVO POR RED Y TENANTS DESCENTES
+📧 gbermudez@exelia.com.mx (EN DESHUSO)
 
 ## Licencia
 
